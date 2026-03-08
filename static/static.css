@@ -70,7 +70,7 @@ html {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-                url('https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1600&q=80')
+                url('https://media.istockphoto.com/id/455237505/photo/doctor-holding-heart.jpg?s=612x612&w=0&k=20&c=Cnb5Loe7gAB49NX6lerlWgQZQYJYO2DZz_xrtX5czck=')
                 center/cover no-repeat;
     display: flex;
     flex-direction: column;
